@@ -1,0 +1,10 @@
+body {
+	background-color: black;
+	font-family: 'times new roman';
+	color:white;
+}
+
+.btn {
+	background-color: pink;
+	color: blue;
+}
